@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.Features.Brands.Dtos;
+using Application.Features.Brands.Dtos.BrandDtos;
 using Application.Features.Brands.Rules;
 using Application.Services.Repositories;
 using AutoMapper;
